@@ -11,7 +11,13 @@ TODO: Short description
 
 ## Whether you think the technology would be a good fit for that based on the thing you hacked
 
-TODO: short description 
+* If it works:
+  - tell me how to test it
+  - hand in multiple attempts if you have them (clarify which is which)
+* If it doesn’t work:
+  - tell me when you stopped trying things and why
+  - hand in failed attempts
+
 
 ## What the thing you hacked is supposed to do
 TODO: short description 
